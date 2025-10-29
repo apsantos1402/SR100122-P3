@@ -1,7 +1,13 @@
-# MuebleXpress
+# MuebleXpress 🪑📱
 
-A new Flutter project.
+MuebleXpress es una app móvil tipo marketplace para fabricantes de muebles locales.
 
-## Getting Started
+## Objetivo
+- Dar a los emprendedores un espacio para publicar y vender sus muebles.
+- Permitir a los usuarios explorar el catálogo, ver detalles del producto e iniciar el flujo de compra.
+- Mostrar sugerencias de productos relacionados según el interés del usuario.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+## Tech
+- Construida en FlutterFlow.
+- Usa Firebase para autenticación y datos.
+- Diseñada como MVP listo para escalar.
