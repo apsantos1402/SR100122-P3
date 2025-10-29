@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067554455895",
+    "project_id": "mueblexpress-fa6f9",
+    "storage_bucket": "mueblexpress-fa6f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067554455895:android:7feb66e2c358023c09fe12",
+        "android_client_info": {
+          "package_name": "com.mycompany.mueblexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75_c96IhBWyPNJ8LsckzssBlY5fc2qIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
