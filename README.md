@@ -14,3 +14,5 @@ MuebleXpress es una app móvil tipo marketplace para fabricantes de muebles loca
 
 ## Instrucciones
 Para trabajar en el proyecto, debes acceder a la **branch** de **FlutterFlow**.
+
+Test: https://app.flutterflow.io/share/woodify-furniture-apptemplate-us24j4
